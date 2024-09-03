@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2? family=Josefin+Sans:wght@100..700&family=Jost:wght@100..900&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2? family=Oswald:wght@200..700&family=Ubuntu:wght@700&display=swap');
+
+body{
+
+    background-color: rgb(222,164,173);
+
+    p{
+        font-family:"Jost";
+        color:rgb(27,43,77);
+        text-align: left;
+        font-weight:300;
+    }
+
+    
+    h1{
+        font-family: "Ubuntu";
+        color:rgb(255,241,237);
+        text-decoration:underline
+    }
+
+
+    h2{
+        font-family: "Jost";
+        font-weight: 600;
+        color:rgb(27,43,77)
+        
+    }
+
+
+    h3{
+        font-family: Jost;
+        color:rgb(27,43,77);
+    }
+
+
+    h4{
+        font-family: "Ubuntu";
+        
+    }
+
+    ol{
+        font-family: "Jost";
+        color:rgb(27,43,77);
+        font-weight: 300;
+    }
+
+}
